@@ -1,2 +1,3 @@
 # Automatic-car-parking
- Controlled home electronics through eye movements.
+Built a sensor-driven parking solution improving space utilization and traffic management.
+
